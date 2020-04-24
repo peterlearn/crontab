@@ -1,4 +1,4 @@
 [{<<"stdlib2">>,
-  {git,"https://github.com/cannedprimates/stdlib2.git",
-       {ref,"0c334200fd9c7ddd79f6dcc3a63c0aa5de5d3a33"}},
+  {git,"git@github.com:peterlearn/stdlib2.git",
+       {ref,"52774c82c544dc2e64a9112a38bc98ecfdd92734"}},
   0}].
